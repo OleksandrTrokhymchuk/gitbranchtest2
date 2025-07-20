@@ -10,6 +10,7 @@ export default function Home() {
       <h3>Heading 3</h3>
 
       <p>Paragraph 1</p>
+      <p>Paragraph 2</p>
     </>
   );
 }
