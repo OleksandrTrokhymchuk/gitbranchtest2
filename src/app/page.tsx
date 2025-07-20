@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <>
       <div>Ready to work</div>
+      <h1>Heading 1</h1>
     </>
   );
 }
